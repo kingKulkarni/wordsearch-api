@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
-// Author : Avinash Kulkarni
+// Author : Avinash Kulkarni.
 
 @SpringBootApplication
 public class WordsearchApiApplication {
